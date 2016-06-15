@@ -17,7 +17,7 @@
     },
     "autoload":     {
         "psr-0": {
-            "SC\\DatetimepickerBundle\\": ""
+            "SC\\DatetimepickerBundle": ""
         }
     },
     "target-dir": "SC/DatetimepickerBundle"
